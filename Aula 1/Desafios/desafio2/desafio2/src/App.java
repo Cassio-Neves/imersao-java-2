@@ -31,7 +31,7 @@ public class App {
             int estrela = (int) classificação;
 
             for (int i = 1; i <= estrela; i++) {
-                System.out.print("🌟");
+                System.out.print("\u2B50");
             }
 
             System.out.println();
