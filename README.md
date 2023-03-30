@@ -27,3 +27,5 @@ Imersão Java é um evento gratuito promovido pela Alura, que consiste em 5 aula
 <img src="Aula 3/alurastickers/saída/Webb's Southern Ring Nebula.png" alt="Figurinha da NASA" width="250">
 </div>
 
+- <a href="Aula 3/alurastickers/src">Código da Aula 3</a>
+
