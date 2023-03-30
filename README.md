@@ -10,9 +10,20 @@ Imersão Java é um evento gratuito promovido pela Alura, que consiste em 5 aula
 ## Aula 2
 - Ainda no consumo da API do IMDB, mas agora com a criação de figurinhas dos postêrs para o WhatsApp.
 
-
-<img src="Aula 2/alurastickers/saída/The Dark Knight.png" alt="Figurinha de The Dark Knight" width="200"> <img src="Aula 2/alurastickers/saída/The Godfather.png" alt="Figurinha de The Godfather" width="200"> <img src="Aula 2/alurastickers/saída/Pulp Fiction.png" alt="Figurinha de Pulp Fiction" width="200">
+<div align="center">
+<img src="Aula 2/alurastickers/saída/The Dark Knight.png" alt="Figurinha de The Dark Knight" width="200"> 
+<img src="Aula 2/alurastickers/saída/The Godfather.png" alt="Figurinha de The Godfather" width="200"> 
+<img src="Aula 2/alurastickers/saída/Pulp Fiction.png" alt="Figurinha de Pulp Fiction" width="200">
+</div>
 
 - <a href="Aula 2/alurastickers/src">Código da Aula 2</a>
 
+## Aula 3
+- Nessa aula, reaproveitamos e deixamos o código das últimas aulas mais limpo e flexível utilizando a refatoração e a Programação Orientada a Obejtos. Para comprovar essa reaproveitamento, usamos a API da NASA para gerar figurinhas com os mesmos códigos das Aulas 1 e 2.
+
+<div align="center">
+<img src="Aula 3/alurastickers/saída/Stephan's Quintet from Webb, Hubble, and Subaru.png" alt="Figurinha de NASA" width="250"> 
+<img src="Aula 3/alurastickers/saída/Webb's First Deep Field.png" alt="Figurinha da NASA" width="250">
+<img src="Aula 3/alurastickers/saída/Webb's Southern Ring Nebula.png" alt="Figurinha da NASA" width="250">
+</div>
 
