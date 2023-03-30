@@ -33,12 +33,12 @@ public class GeradorDeFigurinhas {
         graphics.drawImage(imagemOriginal , 0, 0 , null);
 
         //Configurar a fonte
-        Font fonte = new Font(Font.SANS_SERIF, Font.BOLD, 64);
+        Font fonte = new Font(Font.SANS_SERIF, Font.BOLD, 128);
         graphics.setColor(Color.YELLOW);
         graphics.setFont(fonte);
         
         // escrever uma frase na nova imagem
-        graphics.drawString("literalmente eu", largura/2 - 200 , novaAltura - 100);
+        graphics.drawString("literalmente eu", largura/2 - 450 , novaAltura - 50);
         
         // escrever a nova imagem em um arquivo
         ImageIO.write(novaImagem, "png", new File("saída/", nomeArquivo));
